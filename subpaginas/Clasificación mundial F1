@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <title>Clasificación F1</title>
+  </head>
+  <body>
+    <a href="../index.html"><H4>Volver</H4></a>
+    <H1>Clasificación F1</H1>
+    <img src="../imagenes/f1.png" height="150">
+    <ol type="1">
+        <li><img src="../imagenes paises/paises_bajos.png" height="20">M.Verstappen</li>
+        <li><img src="../imagenes paises/reino_unido.png" height="20">L.Halmilton</li>
+        <li><img src="../imagenes paises/finlandia.png" height="20">V.Bottas</li>
+        <li><img src="../imagenes paises/mexico.png" height="20">S.Pérez</li>
+        <li><img src="../imagenes paises/españa.png" height="20">C.Sainz</li>
+        <li><img src="../imagenes paises/reino_unido.png" height="20">L.Norris</li>
+        <li>...</li>
+        <li><img src="../imagenes paises/españa.png" height="20">F.Alonso</li>
+  </body>
+</html>
